@@ -10,7 +10,7 @@ wanna-be Junior Frontend Developer
 **Discord:** Dmitry Timonin (@dm7mnn)
 
 ## Location
-Saint-Petersburg, Russia
+<img src ="https://pluspng.com/img-png/png-location-location-black-png-image-4231-1200.png" width="17"> Saint-Petersburg, Russia
 
 ## About myself
 Currently I am finishing a bachelor degree in Political Science at Higher School of Economics and want to change my career path after the graduation.
@@ -37,7 +37,7 @@ function areaLargestSquare(r) {
 ```
 
 ## Projects
-https://dm7mnn.github.io/rsschool-cv/cv
+[https://dm7mnn.github.io/rsschool-cv/cv](https://dm7mnn.github.io/rsschool-cv/cv)
 
 ## Courses
 RS Schools Course «JavaScript/Front-end. Stage 0» (work in progress)
